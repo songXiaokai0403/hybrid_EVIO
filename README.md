@@ -1,0 +1,3 @@
+# hybrid_EVIO
+
+The obtained raw trajectories and validation methods are referenced from https://github.com/arclab-hku/DEIO. 
